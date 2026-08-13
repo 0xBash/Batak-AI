@@ -1,0 +1,87 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+batakai
+batakai.pub
+
+# ----------------------------------------------------------------------
+# Build & Cache Directories
+# ----------------------------------------------------------------------
+/build/
+*/build/
+/app/build/
+/.gradle/
+/.kotlin/
+/captures/
+/.cxx/
+/kotlin-js-store/
+
+# ----------------------------------------------------------------------
+# Local Environment & Configurations (Privacy/OSINT Risks)
+# ----------------------------------------------------------------------
+local.properties
+/gradle.properties.local
+/secrets.properties
+/env.properties
+
+# ----------------------------------------------------------------------
+# Android Studio & IntelliJ IDEA Workspace Files
+# ----------------------------------------------------------------------
+/.idea/
+*.iws
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/caches/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/deploymentTargetDropDown.xml
+
+# ----------------------------------------------------------------------
+# Cryptographic Keys & Signing Artifacts (Strict Security)
+# ----------------------------------------------------------------------
+*.jks
+*.keystore
+*.p12
+*.key
+*.pem
+*.pk8
+*.x509.pem
+/google-services.json
+/fabric.properties
+/crashlytics.properties
+
+# ----------------------------------------------------------------------
+# OS-Specific Auto-Generated Files
+# ----------------------------------------------------------------------
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ----------------------------------------------------------------------
+# Log Files & Debugging Outputs
+# ----------------------------------------------------------------------
+*.log
+*.hprof
+*.pcap
+/lint-results/
+/lint-results.xml

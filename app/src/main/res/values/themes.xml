@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Change the parent to NoActionBar -->
+    <style name="Theme.DuckAssistant" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your colors here if needed -->
+        <item name="colorPrimary">@color/black</item>
+    </style>
+</resources>
