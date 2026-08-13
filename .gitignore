@@ -12,7 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
-.kotlin/
 
 # ----------------------------------------------------------------------
 # Build & Cache Directories
@@ -21,7 +20,7 @@
 */build/
 /app/build/
 /.gradle/
-/.kotlin/
+/.kotlin/*
 /captures/
 /.cxx/
 /kotlin-js-store/
