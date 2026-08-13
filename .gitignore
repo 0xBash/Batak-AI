@@ -12,8 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
-batakai
-batakai.pub
+.kotlin/
 
 # ----------------------------------------------------------------------
 # Build & Cache Directories
