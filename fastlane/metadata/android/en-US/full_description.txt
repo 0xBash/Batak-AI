@@ -1,0 +1,2 @@
+A privacy-focused, lightweight wrapper around duckDOTai that sits in front of your prompts and outputs only what you need.
+It performs native request blocking/filtering at every start of the application by fetching official raw hosts list from StevenBlack repository.
